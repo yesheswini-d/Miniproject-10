@@ -1,0 +1,5 @@
+-r requirements-ui.txt
+
+# Development / CI
+pytest>=7.4
+ruff>=0.5
